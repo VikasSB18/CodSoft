@@ -1,10 +1,10 @@
 # CodSoft AI Internship
 
 ## Task 1 - Rule Based Chatbot
+A simple chatbot using Python.
 
-A simple chatbot developed using Python and if-else statements.
+## Task 2 - Tic Tac Toe AI
+A basic Tic Tac Toe game implementation.
 
-Features:
-- Greeting responses
-- Basic conversation
-- Exit command
+## Task 3 - Image Captioning
+A simple image caption generation program.
